@@ -3,6 +3,8 @@ class_name Match
 var host: Player
 var client: Player
 var id
+var start_time
+var selecting = false
 var started = false
 var public = true
 
