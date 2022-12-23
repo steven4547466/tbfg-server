@@ -16,4 +16,5 @@ func to_lobby_dict():
 	return {
 		"host": host.username,
 		"code": id,
+		"rating": host.rating,
 	}

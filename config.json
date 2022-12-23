@@ -1,3 +1,6 @@
 {
-  "authToken": ""
+  "authToken": "",
+  "isTournamentServer": false,
+  "enableStatSending": true,
+  "port": 52450
 }
